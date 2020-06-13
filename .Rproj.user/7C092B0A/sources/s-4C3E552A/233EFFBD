@@ -1,0 +1,25 @@
+{
+    "id": "233EFFBD",
+    "path": "~/RStudio/GitTest/withoutGit/blah.R",
+    "project_path": "blah.R",
+    "type": "r_source",
+    "hash": "1845520136",
+    "contents": "",
+    "dirty": false,
+    "created": 1592064042469.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "0,59",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1592064088,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1592064088226,
+    "read_only": false,
+    "read_only_alternatives": []
+}

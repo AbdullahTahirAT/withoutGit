@@ -1,0 +1,1 @@
+print("Nahi parha mainay poora saal ab kya hoga mera haal")
